@@ -1,6 +1,6 @@
 name: '✨ Feature'
 description: '새로운 기능에 대한 issue를 작성하세요!'
-labels: '✅feature'
+labels: '✅ feature'
 body:
   - type: textarea
     attributes:
