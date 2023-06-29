@@ -1,0 +1,15 @@
+@import url("https://webfontworld.github.io/pretendard/Pretendard.css");
+
+:root {
+  font-family: "Pretendard";
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+Link {
+  cursor: pointer;
+}
